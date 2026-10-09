@@ -1,0 +1,44 @@
+{
+  "release_date": "2026-10-07",
+  "scope": "Initial method implementation only; benchmark and figure-reproduction pipelines coming soon.",
+  "source_revision": "9f388c0aea1f6785673fa0e95c303e40e612b763",
+  "source_working_tree_contains_uncommitted_changes": true,
+  "files": [
+    {
+      "path": "core/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "byte_identical_to_research_source": true
+    },
+    {
+      "path": "core/env.py",
+      "bytes": 9633,
+      "sha256": "c47359ab30b310782e7cbfad036396a82467b92c8225631c2dbf15c333e6c91b",
+      "byte_identical_to_research_source": true
+    },
+    {
+      "path": "core/channel.py",
+      "bytes": 9217,
+      "sha256": "8431b0a367e99b70ccc9e8bca9466e9efc9c4d01d13d039bfcba0191a683cdd4",
+      "byte_identical_to_research_source": true
+    },
+    {
+      "path": "core/evaluate.py",
+      "bytes": 24716,
+      "sha256": "5038a59ed986b68b3f4089b04f5147f7b6bd4acae242e49148d61b8b80bdf254",
+      "byte_identical_to_research_source": true
+    },
+    {
+      "path": "core/problem_mo.py",
+      "bytes": 6916,
+      "sha256": "3cbf327a9bd0598dbd8312fb7965392aecf70f22bfcc6c076a8925c421719aa2",
+      "byte_identical_to_research_source": true
+    },
+    {
+      "path": "core/morbo_optimizer.py",
+      "bytes": 41657,
+      "sha256": "fc8fc4a590a242c09d23f06278d8763074b1e86732c370562222120338a7f645",
+      "byte_identical_to_research_source": true
+    }
+  ]
+}
